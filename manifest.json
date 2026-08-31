@@ -1,11 +1,11 @@
 {
-    "name": "DexOffline Plus",
-    "short_name": "DexOffline Plus",
+    "name": "DexOffline",
+    "short_name": "DexOffline",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#00696d",
-    "description": "DexOffline Plus - an app to find words in dictionary, play Hangman, Pheasant or Wordle games and much more.",
+    "description": "DexOffline - an app to find words in dictionary, play Hangman, Pheasant or Wordle games and much more.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
